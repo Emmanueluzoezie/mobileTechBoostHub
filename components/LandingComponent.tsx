@@ -20,13 +20,14 @@ const LandingComponent = () => {
 
   return (
     <div className='hidden'>
-      <RotatingLines
+      {/* <RotatingLines
         strokeColor={"#c7881c"}
         strokeWidth="5"
         animationDuration="0.75"
         width="40"
         visible={true}
-      />
+      /> */}
+      Profile
     </div>
   );
 }
