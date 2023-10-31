@@ -15,7 +15,7 @@ const LandingComponent = () => {
             router.push(`/native/${email}`)
         }
         getData()
-    }, [])
+    }, [router])
   return (
     <div>LandingComponent</div>
   )
