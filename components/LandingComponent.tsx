@@ -19,7 +19,7 @@ const LandingComponent = () => {
   }, []);
 
   return (
-    <div>
+    <div className='hidden'>
       <RotatingLines
         strokeColor={"#c7881c"}
         strokeWidth="5"
