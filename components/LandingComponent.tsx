@@ -1,3 +1,4 @@
+"use client"
 import React, { useEffect } from 'react';
 import { Hanko } from "@teamhanko/hanko-elements";
 import { useRouter } from 'next/navigation';
